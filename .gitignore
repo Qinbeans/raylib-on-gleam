@@ -3,3 +3,4 @@ build
 ray-erl.code-workspace
 .vscode
 priv
+.DS_Store
