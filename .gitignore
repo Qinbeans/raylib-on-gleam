@@ -1,0 +1,5 @@
+build
+./vcpkg
+ray-erl.code-workspace
+.vscode
+priv
